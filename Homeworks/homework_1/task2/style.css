@@ -1,0 +1,16 @@
+body {
+  font-family: arial;
+}
+
+dt {
+  font-weight: bold;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.big-font {
+  font-size: 35px;
+}
