@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+  text-align: left;
+}
+
+tr, td {
+  /*border: 1px solid black;*/
+}
+
+td > input[type="text"] {
+  width: 90%;
+  height: 10px;
+}
+
+#main {
+  width: 50%;
+}
